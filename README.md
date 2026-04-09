@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# AI-ChatBot-MERN
+=======
+>>>>>>> 041c06e1d2f958d3a20419bc4925ea4ec25b8254
 # 🤖 MERN Stack AI Chatbot
 
 A full-stack AI chatbot application built with MongoDB, Express.js, React, and Node.js. Features user authentication, persistent chat history, context-aware AI responses, and a modern dark-themed UI.
@@ -322,3 +328,7 @@ For support, email support@example.com or open an issue in the repository.
 ---
 
 Made with ❤️ using MERN Stack
+<<<<<<< HEAD
+=======
+>>>>>>> aae8215 (Initial commit - MERN AI Chatbot)
+>>>>>>> 041c06e1d2f958d3a20419bc4925ea4ec25b8254
